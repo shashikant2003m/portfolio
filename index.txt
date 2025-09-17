@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[5244,[],""]
+3:I[3866,[],""]
+4:I[5960,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+5:I[358,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+6:I[7394,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+7:I[3656,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+8:I[5753,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+9:I[4806,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+a:I[3815,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+b:I[4370,["506","static/chunks/506-f68d492314f3c78d.js","974","static/chunks/app/page-52e3f24b0bfe09bf.js"],"default"]
+c:I[6213,[],"OutletBoundary"]
+f:I[6213,[],"ViewportBoundary"]
+11:I[6213,[],"MetadataBoundary"]
+13:I[4835,[],""]
+:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/a37e159ba8189b0d.css","style"]
+0:{"P":null,"b":"XSKY3jIQLpigJYaMvyg4g","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a37e159ba8189b0d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","children":["$","body",null,{"className":"__className_d65c78 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-gray-900 dark:to-blue-950 min-h-screen","children":["$","main",null,{"className":"relative","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"$undefined",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}],"$undefined",null,["$","$Lc",null,{"children":["$Ld","$Le",null]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","fikjmh7LHw7oGSzZ3_zLl",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L11",null,{"children":"$L12"}]]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+e:null
+12:[["$","title","0",{"children":"Shashikant Kumar - Portfolio"}],["$","meta","1",{"name":"description","content":"Professional portfolio of Shashikant Kumar - Software Engineer"}]]
